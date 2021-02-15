@@ -24,3 +24,14 @@ body{
 .a-cert{
     border: 2px solid black;
 }
+
+.a-hob{
+    border: 2px solid black;
+    
+}
+
+.li{
+    display: inline;
+}
+a{
+text-decoration: none;}
