@@ -1,3 +1,26 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .p-info{
+    border: 1px red solid;
+}
 
+.part-1{
+    
+
+}
+.part-2{
+   
+   
+    
+}
+.a-edu{
+    border: 2px solid black;
+    
+}
+.a-skill{
+    border: 2px solid black;
+}
+.a-cert{
+    border: 2px solid black;
 }
